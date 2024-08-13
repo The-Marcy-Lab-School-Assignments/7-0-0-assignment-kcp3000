@@ -38,11 +38,11 @@ function App() {
         <button onClick={() => handleButtonClick("Bom Dia!")}>
           Portuguese
         </button>
-        <button onClick={() => handleButtonClick("おはよう!")}>
-          Japanese
-        </button>
         <button onClick={() => handleButtonClick("Salve!")}>
           Latin
+        </button>
+        <button onClick={() => handleButtonClick("おはよう!")}>
+          Japanese
         </button>
       </div>
     </>

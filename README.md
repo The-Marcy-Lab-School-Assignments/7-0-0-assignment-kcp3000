@@ -31,8 +31,8 @@ Your goal is to meet at least 75% of these requirements to complete the assignme
 - [x] Each button should correspond to a different language (perhaps, "Spanish", "Haitian Creole", and "Portuguese"). 
 - [x] When a language button is clicked, the greeting above should be translated to the appropriate language.
 - [x] Above your greeting, there should be two buttons to change the font size.
-- [ ] When the buttons are clicked, the greeting size should grow or shrink accordingly. 
-Score: 5/6
+- [x] When the buttons are clicked, the greeting size should grow or shrink accordingly. 
+Score: 6/6
 
 **React Fundamentals**
 - [ ] Component names use PascalCase (`MyComponent` instead of `myComponent`)
@@ -43,10 +43,10 @@ Score: 1/3
 **Miscellaneous**
 - [x] Used Vite to create the project
 - [ ] The size buttons, the greeting, and the language buttons should each be their own component for a total of 3 components (on top of the root `App`)
-- [ ] At no point did you ever use any vanilla DOM JS methods (e.g. `document.querySelector` or `document.createElement`)
+- [x] At no point did you ever use any vanilla DOM JS methods (e.g. `document.querySelector` or `document.createElement`)
 - [ ] Bonus: You have a `components` directory. Each component has its own file and is exported (1 export per file). The filename matches the name of the component being exported (`Header.jsx` exports a `Header` component).
-- [ ] Bonus: Your project has some extra CSS styling!
-Score: 1/5
+- [x] Bonus: Your project has some extra CSS styling!
+Score: 3/5
 
 ## Set Up
 It's highly recommended you use the scaffolding tool [Vite](https://vitejs.dev/guide/) to create your starter code. You can run these commands to get started:
